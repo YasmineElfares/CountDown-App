@@ -1,0 +1,30 @@
+.App{
+    text-align: center;
+    background-image: url(https://img.freepik.com/free-vector/watercolor-background_87374-69.jpg?size=626&ext=jpg);
+    margin-top: 10%;
+
+}
+
+.App-title{
+    font-size: 50px;
+    color: cornflowerblue;
+}
+
+.Clock-days , .Clock-hours, .Clock-minutes, .Clock-seconds{
+    display: inline;
+    margin: 7px;
+    color: cornflowerblue;
+    font-size: 25px;
+}
+
+.Deadline-input{
+    font-size: 25px;
+    margin-right: 5px;
+    margin-left: 478px;
+    margin-bottom: 5px;
+}
+
+.Button{
+    font-size: 25px;
+    margin-bottom: 5px;
+}
